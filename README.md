@@ -12,20 +12,17 @@
 
 <div align="center">
 
-## 🧬 ``` 𝐃 ay time  •  𝐍 ight time  •  𝐀 ny time ``` 🧬
+<div align="center">
 
 ```
-    ╭─────────────────────────────────────────╮
-    │  🧬  D N A  ·  C O D I N G  ·  L I F E  │
-    │      ╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲     │
-    │     ╱  ╲  ╱╲  ╱╲  ╱╲  ╱╲  ╱╲  ╱      │
-    │    ╱____╲╱__╲╱__╲╱__╲╱__╲╱__╲╱       │
-    ╰─────────────────────────────────────────╯
-```
 
-<img src="https://img.shields.io/badge/🧬_D-ay_time-2d5a68?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="Day time" />
-<img src="https://img.shields.io/badge/🧬_N-ight_time-1a3d47?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="Night time" />
-<img src="https://img.shields.io/badge/🧬_A-ny_time-0f2a33?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="Any time" />
+## 🧬 **D** ay time
+## 🧬   **N** ight time  
+## 🧬     **A** ny time
+
+<img src="https://img.shields.io/badge/🔬-Decoding_Life_One_Gene_at_a_Time-2d5a68?style=for-the-badge&logoColor=white" alt="Bioinformatics" />
+
+</div>
 
 </div>
 
