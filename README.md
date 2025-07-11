@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Francesco!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Bioinformatician;Genomics+%26+Epigenomics+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Bioinformatician;Genomics+%26+Epigenomics+Researcher;scRNA-seq+Data+Scientist;GRN+Applications+Developer" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=ngsfc&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ngsfc" />
 
@@ -12,7 +12,7 @@
 
 ## 🧬 About Me
 
-<img align="right" alt="DNA" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="DNA Analysis" width="400" src="https://media.giphy.com/media/7A1dYzGilg6vLi9CLp/giphy.gif">
 
 🔬 **Current Focus:** Gene Regulatory Network (GRN) applications in single-cell RNA sequencing  
 🧪 **Research Areas:** Computational Genomics & Epigenomics  
@@ -112,6 +112,14 @@ mindmap
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/yourprofile)
 
 </div>
+
+---
+
+## 🙏 Acknowledgments
+
+- DNA Analysis GIF: [Massive Science](https://giphy.com/massivesci) via GIPHY
+- Icons and badges: [Shields.io](https://shields.io/)
+- GitHub Stats: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
