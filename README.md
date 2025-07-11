@@ -12,7 +12,7 @@
 
 ## 🧬 About Me
 
-<img align="right" alt="DNA Analysis" width="400" src="https://media.giphy.com/media/7A1dYzGilg6vLi9CLp/giphy.gif">
+<img align="right" alt="Chromatin Remodeling" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 🔬 **Current Focus:** Gene Regulatory Network (GRN) applications in single-cell RNA sequencing  
 🧪 **Research Areas:** Computational Genomics & Epigenomics  
@@ -117,7 +117,7 @@ mindmap
 
 ## 🙏 Acknowledgments
 
-- DNA Analysis GIF: [Massive Science](https://giphy.com/massivesci) via GIPHY
+- Chromatin Remodeling GIF: [Coding Animation](https://dribbble.com/shots/4171367) by [Glebich](https://dribbble.com/glebich)
 - Icons and badges: [Shields.io](https://shields.io/)
 - GitHub Stats: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
