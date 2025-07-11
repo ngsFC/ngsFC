@@ -115,9 +115,9 @@ mindmap
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francesco.cecerengs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/francesco-cecere-ngs)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/FcecereNGS))
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)]([https://researchgate.net/profile/yourprofile](https://www.researchgate.net/profile/Francesco-Cecere-2?ev=hdr_xprf))
 
 </div>
 
@@ -125,7 +125,6 @@ mindmap
 
 ## 🙏 Acknowledgments
 
-- DNA Banner: Custom design for bioinformatics research
 - Chromatin Remodeling GIF: [Coding Animation](https://dribbble.com/shots/4171367) by [Glebich](https://dribbble.com/glebich)
 - Icons and badges: [Shields.io](https://shields.io/)
 - GitHub Stats: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
