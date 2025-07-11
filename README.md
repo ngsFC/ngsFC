@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Francesco!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Bioinformatician;Genomics+%26+Epigenomics+Researcher;scRNA-seq+Data+Scientist;GRN+Applications+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Bioinformatician;Genomics+%26+Epigenomics+Researcher" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=ngsfc&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ngsfc" />
 
@@ -12,13 +12,7 @@
 
 <div align="center">
 
-<div align="center">
-
-## 🧬 **D** ay time
-## 🧬   **N** ight time  
-## 🧬     **A** ny time
-
-</div>
+<img src="dna-banner.png" alt="DNA Day Night Any Time" width="600"/>
 
 </div>
 
@@ -131,6 +125,7 @@ mindmap
 
 ## 🙏 Acknowledgments
 
+- DNA Banner: Custom design for bioinformatics research
 - Chromatin Remodeling GIF: [Coding Animation](https://dribbble.com/shots/4171367) by [Glebich](https://dribbble.com/glebich)
 - Icons and badges: [Shields.io](https://shields.io/)
 - GitHub Stats: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
