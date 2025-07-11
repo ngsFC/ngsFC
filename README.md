@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="dna-banner.png" alt="DNA Day Night Any Time" width="500" height="250"/>
+<img src="dna-banner.png" alt="DNA Day Night Any Time" width="400" height="200"/>
 
 </div>
 
