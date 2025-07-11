@@ -14,20 +14,9 @@
 
 <div align="center">
 
-```
-    ╭─────────────────────────────────────────╮
-    │           🧬  D N A  ·  L I F E  🧬     │
-    │      ╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲╱╲     │
-    │     ╱  ╲  ╱╲  ╱╲  ╱╲  ╱╲  ╱╲  ╱      │
-    │    ╱____╲╱__╲╱__╲╱__╲╱__╲╱__╲╱       │
-    ╰─────────────────────────────────────────╯
-```
-
 ## 🧬 **D** ay time
 ## 🧬   **N** ight time  
 ## 🧬     **A** ny time
-
-<img src="https://img.shields.io/badge/🔬-Decoding_Life_One_Gene_at_a_Time-2d5a68?style=for-the-badge&logoColor=white" alt="Bioinformatics" />
 
 </div>
 
