@@ -10,6 +10,34 @@
 
 ---
 
+<div align="center">
+
+## 🧬 ``` D N A  ·  C O D I N G  ·  L I F E ``` 🧬
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌅_Day_Time-DNA_Analysis-FFD700?style=for-the-badge&labelColor=FF6B35" alt="Day Time"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌙_Night_Time-Gene_Expression-4169E1?style=for-the-badge&labelColor=2E86AB" alt="Night Time"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⏰_Any_Time-Bioinformatics-32CD32?style=for-the-badge&labelColor=16537e" alt="Any Time"/>
+</td>
+</tr>
+</table>
+
+```
+    🧬 A T G C - C G T A 🧬
+   🔬 Decoding Life, One Gene at a Time 🔬
+    🧬 T A C G - G C A T 🧬
+```
+
+</div>
+
+---
+
 ## 🧬 About Me
 
 <img align="right" alt="Chromatin Remodeling" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
