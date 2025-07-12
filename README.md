@@ -1,6 +1,7 @@
 <div align="center">
   
 # 👋 Hello, I'm Francesco!
+Many unexpected results are due to artifacts or technical errors, but in some cases is not and they hide important information. The best thing about our job is to understand when this happens. A job similar to that of a detective. **Do not forget**.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Bioinformatician;Genomics+%26+Epigenomics+Researcher" alt="Typing SVG" />
 
