@@ -100,7 +100,6 @@ mindmap
 
 ## 🙏 Acknowledgments
 
-- Chromatin Remodeling GIF: [Coding Animation](https://dribbble.com/shots/4171367) by [Glebich](https://dribbble.com/glebich)
 - Icons and badges: [Shields.io](https://shields.io/)
 - GitHub Stats: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
