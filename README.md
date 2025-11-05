@@ -20,6 +20,26 @@
 </div>
 
 
+
+---
+
+## 🔬 Research Interests
+
+```mermaid
+mindmap
+  root((Bioinformatics))
+    Epigenomics
+      ChIP-seq
+      Methylation array
+      BS-seq
+      SNP-array
+    Genomics
+      Exome-seq
+      WGS
+    Transcriptomics
+      RNA-seq
+      miRNA-seq 
+```
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -62,30 +82,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ngsfc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="ngsfc" />
 </div>
-
----
-
-## 🔬 Research Interests
-
-```mermaid
-mindmap
-  root((Bioinformatics))
-    Gene Regulatory Networks
-      Network Inference
-      Community detection
-    Epigenomics
-      ChIP-seq
-      DNA Methylation
-      SNP-array
-    Genomics
-      DNA-sequencing
-    Transcriptomics
-      RNA-seq
-      miRNA-seq  
-    Machine Learning
-      Graph Neural Networks
-      Dimensionality Reduction
-```
 
 ---
 
