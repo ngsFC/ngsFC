@@ -19,27 +19,6 @@
 
 </div>
 
-
-
----
-
-## 🔬 Research Interests
-
-```mermaid
-mindmap
-  root((Bioinformatics))
-    Epigenomics
-      ChIP-seq
-      Methylation array
-      BS-seq
-      SNP-array
-    Genomics
-      Exome-seq
-      WGS
-    Transcriptomics
-      RNA-seq
-      miRNA-seq 
-```
 ---
 
 ## 🛠️ Tech Stack & Tools
